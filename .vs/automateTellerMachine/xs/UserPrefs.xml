@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5A0D35CA-FC5E-4285-BDF9-56199B3CD97F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="automateTellerMachine/controller/AutomatedTellerMachineController.cs">
+    <Files>
+      <File FileName="automateTellerMachine/Program.cs" Line="16" Column="1" />
+      <File FileName="automateTellerMachine/controller/AutomatedTellerMachineController.cs" Line="16" Column="70" />
+      <File FileName="automateTellerMachine/view/AutomatedTellerMachineView.cs" Line="22" Column="93" />
+      <File FileName="automateTellerMachine/database/Accounts.cs" Line="16" Column="79" />
+      <File FileName="automateTellerMachine/service/IAutomateTellerMachineService.cs" Line="10" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="automateTellerMachine" expanded="True">
+            <Node name="automateTellerMachine" expanded="True">
+              <Node name="controller" expanded="True">
+                <Node name="AutomatedTellerMachineController.cs" selected="True" />
+              </Node>
+              <Node name="database" expanded="True" />
+              <Node name="enums" expanded="True" />
+              <Node name="exception" expanded="True" />
+              <Node name="model" expanded="True" />
+              <Node name="service" expanded="True" />
+              <Node name="view" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.automateTellerMachine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

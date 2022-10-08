@@ -1,0 +1,13 @@
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/bin/Debug/netcoreapp3.1/automateTellerMachine.deps.json
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/bin/Debug/netcoreapp3.1/automateTellerMachine.runtimeconfig.json
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/bin/Debug/netcoreapp3.1/automateTellerMachine.runtimeconfig.dev.json
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/bin/Debug/netcoreapp3.1/automateTellerMachine.dll
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/bin/Debug/netcoreapp3.1/automateTellerMachine.pdb
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/obj/Debug/netcoreapp3.1/automateTellerMachine.csproj.AssemblyReference.cache
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/obj/Debug/netcoreapp3.1/automateTellerMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/obj/Debug/netcoreapp3.1/automateTellerMachine.AssemblyInfoInputs.cache
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/obj/Debug/netcoreapp3.1/automateTellerMachine.AssemblyInfo.cs
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/obj/Debug/netcoreapp3.1/automateTellerMachine.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/obj/Debug/netcoreapp3.1/automateTellerMachine.dll
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/obj/Debug/netcoreapp3.1/automateTellerMachine.pdb
+/Users/macbook/Projects/automateTellerMachine/automateTellerMachine/obj/Debug/netcoreapp3.1/automateTellerMachine.genruntimeconfig.cache

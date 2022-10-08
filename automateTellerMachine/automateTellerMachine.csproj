@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="model\" />
+    <None Remove="controller\" />
+    <None Remove="view\" />
+    <None Remove="service\" />
+    <None Remove="enums\" />
+    <None Remove="exception\" />
+    <None Remove="database\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="model\" />
+    <Folder Include="controller\" />
+    <Folder Include="view\" />
+    <Folder Include="service\" />
+    <Folder Include="enums\" />
+    <Folder Include="exception\" />
+    <Folder Include="database\" />
+  </ItemGroup>
+</Project>
